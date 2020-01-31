@@ -1,0 +1,316 @@
+
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'helpMessage3' is not defined
+[<module 'time' (built-in)>] name 'helpMenu' is not defined
+[<module 'time' (built-in)>] name 'helpMenu' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] local variable 'helpmenu' referenced before assignment
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] name 'images' is not defined
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendImageWithFooter'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendImageWithFooter'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendImageWithFooter'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'พามๆ'
+[<module 'time' (built-in)>] TalkException(code=0, reason='userid is invalid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] '<' not supported between instances of 'str' and 'int'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='stickershop.line-scdn.net', port=443): Read timed out. (read timeout=None)
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.line-cdn.net', port=80): Read timed out. (read timeout=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='stickershop.line-scdn.net', port=443): Read timed out. (read timeout=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='stickershop.line-scdn.net', port=443): Read timed out. (read timeout=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] name 'removeCmd' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contentMetadata', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'runtime' referenced before assignment
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c28237a79271fd66827205a34d316c157', parameterMap={'2': 'c28237a79271fd66827205a34d316c157'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'ควย'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '[30]'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คำสั่ง'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=11, reason='INCOMPATIBLE_APP_VERSION 462', parameterMap={})
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'มาคุยกัน'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of displayName: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap={})
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] TalkException(code=0, reason='can not send to myself', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'keys'
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
